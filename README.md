@@ -42,7 +42,7 @@ We built an end-to-end crash analysis system that combines:
 
 ---
 
-##  AI Component
+## Crash Severity Prediction
 
 We trained a custom neural network model using historical crash data with features like:
 
@@ -52,8 +52,7 @@ We trained a custom neural network model using historical crash data with featur
 - Lighting and visibility
 - Driver behavior
 
-➡ Output: Probabilistic prediction of **crash severity levels** (property damage, injury, fatal)
-
+➡ Output: Probabilistic prediction of **crash severity levels** (property damage, injury, fatal)  
 ---
 
 ## Dashboard preview
