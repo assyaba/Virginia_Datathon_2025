@@ -56,7 +56,7 @@ We trained a custom neural network model using historical crash data with featur
 
 ---
 
-## 🌐 Live Demo
-
-See the interactive dashboard (Tableau Public):  
-[Link to dashboard] *(insert your Tableau or hosted demo link)*
+## Dashboard preview
+[![Dashboard Preview 1](dashboard_preview.png)](https://github.com/assyaba/Virginia_Datathon_2025/blob/main/dashboard_preview3.png)  
+[![Dashboard Preview 2](dashboard_preview.png)](https://github.com/assyaba/Virginia_Datathon_2025/blob/main/dashboard_preview2.png)  
+[![Dashboard Preview 3](dashboard_preview.png)](https://github.com/assyaba/Virginia_Datathon_2025/blob/main/dashboard_preview1.png)
